@@ -1,4 +1,4 @@
-package Loops;
+package Basic;
 public class SpringSeason {
     public static void main(String[] args) {
         int month = Integer.parseInt(args[0]);
