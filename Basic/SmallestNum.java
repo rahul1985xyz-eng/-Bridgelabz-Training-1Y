@@ -15,3 +15,4 @@ public class SmallestNum {
         else System.out.println(c+" is Smallest of three");
     }
 }
+//
