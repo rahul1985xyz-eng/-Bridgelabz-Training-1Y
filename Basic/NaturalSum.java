@@ -10,7 +10,7 @@ public class NaturalSum {
             Sum+=i;
             i++ ;
         }
-        System.out.println(Sum);
+        System.out.println(Sum);//
     }
 
 }
