@@ -12,5 +12,5 @@ public class WhilePower {
             i++;
         }
         System.out.println(res);
-    }
+    } //
 }
