@@ -1,4 +1,4 @@
-package Loops;
+package Basic;
 import java.util.Scanner;
 
 public class AbundantNumber {
