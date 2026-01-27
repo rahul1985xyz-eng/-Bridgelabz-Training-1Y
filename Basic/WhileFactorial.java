@@ -10,6 +10,6 @@ public class WhileFactorial {
             factorial*=i;
             i++;
         }
-        System.out.println(factorial);
+        System.out.println(factorial); //
     }
 }
