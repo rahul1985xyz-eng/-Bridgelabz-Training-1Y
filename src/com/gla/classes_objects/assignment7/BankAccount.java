@@ -30,7 +30,7 @@ class BankAccount {
     }
 }
 
-class Main2 {
+class Main67 {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount("Rahul", "123456", 10000);
         acc.deposit(2000);

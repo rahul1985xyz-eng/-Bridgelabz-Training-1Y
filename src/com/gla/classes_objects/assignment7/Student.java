@@ -26,9 +26,9 @@ class Student {
     }
 }
 
-class Main1 {
+class Main{
     public static void main(String[] args) {
-        Student s = new Student("Shubh", 12, 88);
+        Student s = new Student("Rahul", 12, 88);
         s.displayDetails();
     }
 }
