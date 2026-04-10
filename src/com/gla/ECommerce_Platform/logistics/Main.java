@@ -1,4 +1,4 @@
-package logistic.logistics;
+package src.com.gla.ECommerce_Platform.logistics;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package logistic.logistics;
+package src.com.gla.ECommerce_Platform.logistics;
 
 class Driver {
     String driverId;

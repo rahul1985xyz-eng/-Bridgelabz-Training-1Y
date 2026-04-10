@@ -1,4 +1,4 @@
-package logistic.logistics;
+package src.com.gla.ECommerce_Platform.logistics;
 
 public class penaltycheck {
     public static double calculatePenalty(String checkpointType, int expectedTime, int actualTime) {
